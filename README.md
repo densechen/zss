@@ -2,13 +2,7 @@
 
 ## Comparison with baseline
 
-Prompts: from top to bottom
-
-- A cat is running on the grass.
-- An astronaut is skiing down the hill.
-- A horse galloping on a street.
-
-
-|               Text2Video Zero                | Ours  |
-| :------------------------------------------: | :---: |
-| <img src="video/comparison_with_baseline/a1.gif" width="256" alt="A cat is running on the grass."> |  <img src="video/comparison_with_baseline/b1.gif" width="256" alt="A cat is running on the grass.">    |
+| Method   |                 A cat is running on the grass.                 |             An astronaut is skiing down the hill.              |                 A horse galloping on a street.                 |
+| :------- | :------------------------------------------------------------: | :------------------------------------------------------------: | :------------------------------------------------------------: |
+| T2V-Zero | <img src="video/comparison_with_baseline/a1.gif" width="256">  | <img src="video/comparison_with_baseline/a2.gif" width="256" > | <img src="video/comparison_with_baseline/a3.gif" width="256" > |
+| Ours     | <img src="video/comparison_with_baseline/b1.gif" width="256" > | <img src="video/comparison_with_baseline/b2.gif" width="256" > | <img src="video/comparison_with_baseline/b3.gif" width="256" > |
