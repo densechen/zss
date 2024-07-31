@@ -1,4 +1,4 @@
-# Zero-Shot Video Sampling from Image
+# Fine-gained Zero-shot Video Sampling
 
 ## Well Property Persistent
 
